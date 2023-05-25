@@ -1,5 +1,5 @@
 # Marcos Ferreira
 
 <div>
-  <font color='white'><a href='https://lattes.cnpq.br/8306745786032285' src='https://www.foar.unesp.br/Home/Biblioteca/identificadoresdepesquisadores/lattes.png' target='_blank' style="color: #F00"><img height='16px' src='https://assets.production.linktr.ee/4c5bad4439b18c137db6274e59a577b6d75d61b1/icons/tabler-icons/map-pin.svg'>Currículo Lattes</a></font>
+  <a href='https://www.linkedin.com/in/marcos-ferreira-7800981b0'><img height='16px' src='https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white'></a>
 </div>
