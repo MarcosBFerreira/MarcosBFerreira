@@ -23,5 +23,6 @@
 
 <div>
   <h2>Equipes de Pesquisa e Desenvolvimento</h2>
+  <li>Tradutor da Linguagem Brasileira de Sinais (LIBRAS) para Sala de Aula (UERJ) - 2022 (Atualmente)</li>
   <li>Visão e Inteligência Computacional (UERJ) - 2023 (Atualmente)</li>
 </div>
