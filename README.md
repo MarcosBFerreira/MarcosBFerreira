@@ -19,7 +19,7 @@
 
 <div>
   <h2>Projetos</h2>
-  <a href='' style='text-decoration: none'><li>Triângulo de Pascal</li></a>
+  <a href='' ><li><img src='https://img.shields.io/badge/-Tri%C3%A2ngulo%20de%20Pascal-informational?style=for-the-badge'></li></a>
 </div>
 
 <div>
