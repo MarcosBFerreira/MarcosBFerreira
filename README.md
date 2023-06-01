@@ -22,6 +22,6 @@
 </div>
 
 <div>
-  <h2>Equipes de Pesquisa</h2>
+  <h2>Equipes de Pesquisa e Desenvolvimento</h2>
   <li>Visão e Inteligência Computacional (UERJ) - 2023 (Atualmente)</li>
 </div>
