@@ -19,6 +19,7 @@
 
 <div>
   <h2>Projetos</h2>
+  <a href=''><li>Triângulo de Pascal</li></a>
 </div>
 
 <div>
