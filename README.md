@@ -20,3 +20,7 @@
 <div>
   <h2>Projetos</h2>
 </div>
+
+<div>
+  <h2>Equipes de Pesquisa</h2>
+</div>
