@@ -1,4 +1,4 @@
-<img src='https://github-readme-stats.vercel.app/api?username={MarcosBFerreira}&theme=blue-green'>
+<img src='https://github-readme-stats.vercel.app/api?username=MarcosBFerreira&theme=blue-green'>
 
 # Marcos Ferreira
 <p>Estudante de Ciência da Computação na Universidade Estadual do Rio de Janeiro (UERJ). Formado no Curso Normal (Curso de Formação de Professores) pelo Instituto de Educação Sarah Kubitschek (IESK).</p>
