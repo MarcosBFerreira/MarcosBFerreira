@@ -19,7 +19,7 @@
 
 <div>
   <h2>Projetos</h2>
-  <a href='' style='font-color:white;'><li>Triângulo de Pascal</li></a>
+  <a href='' style='text-decoration: none'><li>Triângulo de Pascal</li></a>
 </div>
 
 <div>
