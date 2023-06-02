@@ -49,6 +49,7 @@
     <br>
     <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=oENpYMv19UWcSfocDF9Kkt'><img height='30px' src='https://img.shields.io/badge/-Leitura%20para%20Bebês-blueviolet?style=for-the-badge'></a>
     <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=404pkdsgjp4n7Gug3NsRSW'><img height='30px' src='https://img.shields.io/badge/-Competências%20Gerais%20na%20BNCC-blueviolet?style=for-the-badge'></a>
+    <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=2zGnDZPOVeAhZaQvOa0yjC'><img height='30px' src='https://img.shields.io/badge/-Brincadeiras%20Cantadas%20na%20Escola:%20Valorizando%20a%20Tradição%20Popular-blueviolet?style=for-the-badge'></a>
   </ul>
   <br>
 </div>
