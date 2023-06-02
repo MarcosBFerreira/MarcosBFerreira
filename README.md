@@ -19,7 +19,7 @@
 
 <div>
   <h2>Certificações</h2>
-  <h3>Programação & TI</h3>
+  <li><h3>Programação & TI</h3></li>
   <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-grey?style=for-the-badge'></a>
 </div>
 
