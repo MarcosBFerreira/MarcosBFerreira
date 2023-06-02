@@ -28,9 +28,9 @@
     <a href='https://www.credly.com/badges/23c6c747-6280-471c-8567-f841d9cd6a12/linked_in_profile'><img src='https://img.shields.io/badge/-Python%20Essentials%201-grey?style=for-the-badge'></a>
     <br><br><br>
     <p>Instituto Federal de Minas Gerais</p>
-    <br><br>
-    Código: 643f41d5-e444-4c83-b874-2222ac140047
     <br>
+    Código: 643f41d5-e444-4c83-b874-2222ac140047
+    <br><br>
     <a href='https://mais.ifmg.edu.br/maisifmg/mod/simplecertificate/verify.php'><img src='https://img.shields.io/badge/-Python%20Básico-grey?style=for-the-badge'></a>
     <br><br><br>
     <p>Curso em Vídeo</p>
