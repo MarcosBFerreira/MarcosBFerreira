@@ -29,9 +29,12 @@
     <p>Instituto Federal de Minas Gerais</p>
     <br>
     <a href=''><img src='https://img.shields.io/badge/-Python%20Básico-grey?style=for-the-badge'></a>
+    <br>
+    <p>Curso em Vídeo</p>
+    <br>
   </ul>
   <br><br>
-  <li>Pedagogia</li>
+  <li>Educação</li>
   <br>
   <ul>
     <p>Centro de Pesquisa e Formação Continuada Paulo Freire</p>
