@@ -37,7 +37,7 @@
     <br><br><br>
     <p>Power System Infocell</p>
     <br>
-    <a href=''><img height='30px' src='https://img.shields.io/badge/-APPLE%20-%20Análise%20Detalhada%20de%20Manuais%20de%20Serviços-grey?style=for-the-badge'></a>
+    <a href=''><img height='30px' src='https://img.shields.io/badge/-APPLE%20:%20Análise%20Detalhada%20de%20Manuais%20de%20Serviços-grey?style=for-the-badge'></a>
   </ul>
   <br><br>
   <li>Educação</li>
