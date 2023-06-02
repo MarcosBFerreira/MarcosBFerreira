@@ -20,7 +20,7 @@
 
 <div>
   <h2>Certificações</h2>
-  <li>Programação & TI</li>
+  <li>Informática & TI</li>
   <br>
   <ul>
     <p>CISCO</p>
