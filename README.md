@@ -33,7 +33,7 @@
     <br><br><br>
     <p>Curso em Vídeo</p>
     <br>
-    <a href=''><img src='https://img.shields.io/badge/-Python%203:%20Mundo%201-grey?style=for-the-badge'></a>
+    <a href='https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3D288-66E2-2'><img src='https://img.shields.io/badge/-Python%203:%20Mundo%201-grey?style=for-the-badge'></a>
   </ul>
   <br><br>
   <li>Educação</li>
