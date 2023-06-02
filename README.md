@@ -44,6 +44,8 @@
     <a href='https://1drv.ms/b/s!AnVYHWshfeqchjBc8gLb1Bl-0cQO?e=ufXl6f'><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos-blueviolet?style=for-the-badge'></a>
     <a href='https://1drv.ms/b/s!AnVYHWshfeqchjcA1HGq8jg31v_V?e=cQ9RTX'><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20no%20Campo-blueviolet?style=for-the-badge'></a>
     <a href='https://1drv.ms/b/s!AnVYHWshfeqchjLlJ-EqrH09bcVU?e=cmxW6n'><img src='https://img.shields.io/badge/-Currículo:%20Escola,%20Inclusão%20e%20Diferenças-blueviolet?style=for-the-badge'></a>
+    <br><br><br>
+    <p>Associação Nova Escola</p>
   </ul>
   <br>
 </div>
