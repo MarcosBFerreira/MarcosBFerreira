@@ -25,8 +25,8 @@
   <br><br>
   <li>Pedagogia</li>
   <br>
-  <ul style="list-style: none;">
-    <li>Centro de Pesquisa e Formação Continuada Paulo Freire</li>
+  <ul>
+    <p>Centro de Pesquisa e Formação Continuada Paulo Freire</p>
     <br>
     <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos-blueviolet?style=for-the-badge'></a>
     <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20no%20Campo-blueviolet?style=for-the-badge'></a>
