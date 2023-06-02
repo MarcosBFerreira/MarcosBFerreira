@@ -23,10 +23,13 @@
   <br>
   <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-grey?style=for-the-badge'></a>
   <br><br>
-  <li>Pedagogia</li>
-  <br>
-  <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos%20(Centro%20de%20Pesquisa%20e%20Formação%20Continuada%20Paulo%20Freire)-blueviolet?style=for-the-badge'></a>
-  <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20no%20Campo%20(Centro%20de%20Pesquisa%20e%20Formação%20Continuada%20Paulo%20Freire)-blueviolet?style=for-the-badge'></a>
+  <ul>
+    <li>Pedagogia</li>
+    <br>
+    <li>Centro de Pesquisa e Formação Continuada Paulo Freire</li>
+    <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos-blueviolet?style=for-the-badge'></a>
+    <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20no%20Campo-blueviolet?style=for-the-badge'></a>
+  </ul>
 </div>
 
 <div>
