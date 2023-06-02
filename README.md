@@ -19,7 +19,7 @@
 
 <div>
   <h2>Certificações</h2>
-  <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-brigthgreen?style=for-the-badge'></a>
+  <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-black?style=for-the-badge'></a>
 </div>
 
 <div>
