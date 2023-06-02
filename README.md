@@ -39,6 +39,7 @@
     <br>
     <a href='https://inovemaster.com/portal/certificado/Certificado.php?id_certificado=7511'><img height='30px' src='https://img.shields.io/badge/-APPLE:%20Análise%20Detalhada%20de%20Manuais%20de%20Serviços-grey?style=for-the-badge'></a>
     <a href='https://inovemaster.com/portal/certificado/Certificado.php?id_certificado=6809'><img height='30px' src='https://img.shields.io/badge/-Curso%20de%20Reparos%20em%20Placas:%20Baseado%20no%20Moto%20G2-grey?style=for-the-badge'></a>
+    <a href='https://inovemaster.com/portal/certificado/Certificado.php?id_certificado=6941'><img height='30px' src='https://img.shields.io/badge/-Reparação%20de%20Placas%20Smartphone%20e%20Tablet-grey?style=for-the-badge'></a>
   </ul>
   <br><br>
   <li>Educação</li>
