@@ -34,6 +34,10 @@
     <p>Curso em Vídeo</p>
     <br>
     <a href='https://www.cursoemvideo.com/validacao-de-certificado/?codigo=3D288-66E2-2'><img height='30px' src='https://img.shields.io/badge/-Python%203:%20Mundo%201-grey?style=for-the-badge'></a>
+    <br><br><br>
+    <p>Power System Infocell</p>
+    <br>
+    <a href=''><img height='30px' src='https://img.shields.io/badge/-APPLE%20-%20Análise%20Detalhada%20de%20Manuais%20de%20Serviços-grey?style=for-the-badge'></a>
   </ul>
   <br><br>
   <li>Educação</li>
