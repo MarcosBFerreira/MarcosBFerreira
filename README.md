@@ -22,6 +22,10 @@
   <li>Programação & TI</li>
   <br>
   <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-grey?style=for-the-badge'></a>
+  <br>
+  <li>Pedagogia</li>
+  <br>
+  <a href=''><img src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos-grey?style=for-the-badge'></a>
 </div>
 
 <div>
