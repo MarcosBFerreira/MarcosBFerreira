@@ -21,7 +21,15 @@
   <h2>Certificações</h2>
   <li>Programação & TI</li>
   <br>
-  <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201%20(CISCO)-grey?style=for-the-badge'></a>
+  <ul>
+    <p>CISCO</p>
+    <br>
+    <a href=''><img src='https://img.shields.io/badge/-Python%20Essentials%201-grey?style=for-the-badge'></a>
+    <br><br>
+    <p>Instituto Federal de Minas Gerais</p>
+    <br>
+    <a href=''><img src='https://img.shields.io/badge/-Python%20Básico-grey?style=for-the-badge'></a>
+  </ul>
   <br><br>
   <li>Pedagogia</li>
   <br>
