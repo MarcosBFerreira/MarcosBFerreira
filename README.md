@@ -46,6 +46,8 @@
     <a href='https://1drv.ms/b/s!AnVYHWshfeqchjLlJ-EqrH09bcVU?e=cmxW6n'><img src='https://img.shields.io/badge/-Currículo:%20Escola,%20Inclusão%20e%20Diferenças-blueviolet?style=for-the-badge'></a>
     <br><br><br>
     <p>Associação Nova Escola</p>
+    <br>
+    <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=oENpYMv19UWcSfocDF9Kkt'><img src='https://img.shields.io/badge/-Leitura%20para%20Bebês-blueviolet?style=for-the-badge'></a>
   </ul>
   <br>
 </div>
