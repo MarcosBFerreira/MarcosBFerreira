@@ -54,6 +54,7 @@
 
 <div>
   <h2>Projetos</h2>
+  <br>
   <a href='' ><img src='https://img.shields.io/badge/-Tri%C3%A2ngulo%20de%20Pascal-informational?style=for-the-badge'></a>
   <a href=''><img src='https://img.shields.io/badge/-Jogo%20da%20Velha-informational?style=for-the-badge'></a>
   <a href=''><img src='https://img.shields.io/badge/-Ferramentas%20para%20Facilitar%20o%20YOLO-informational?style=for-the-badge'></a>
@@ -61,6 +62,8 @@
 
 <div>
   <h2>Equipes de Pesquisa e Desenvolvimento</h2>
+  <br>
   <li>Tradutor da Linguagem Brasileira de Sinais (LIBRAS) para Sala de Aula (UERJ) - 2022 (Atualmente)</li>
+  <br>
   <li>Visão e Inteligência Computacional (UERJ) - 2023 (Atualmente)</li>
 </div>
