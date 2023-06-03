@@ -15,7 +15,8 @@
   <img height='30px' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white'>
-  <img height='30px' src='https://img.shields.io/badge/-YOLO v4-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAAHdElNRQfnBgEEGSvA3OvbAAAAx0lEQVQY063PsStEcQDA8c/vHt2d6yx0L3VRikvKoJRsopuVySyTf8LsP7BaTJJBGf0HhrM/iq684V04ut7dY7rFKN/tM375a9EvlxDGCIJvMzbUpR60rMl13Bsqgj2xkWVtF6oyB1JXagrXkSXHZvV8GDjS0PWksOvQMJKYtK3u1b6moKNi05aaoiR3I0NXjDeRkdyUwmOETy1l53J9l+aU9b27czaBBU0N005UxXasyJy61QuCdfNeJFIsWjXwJfE8fv33fgAgdzg/mEW4+QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNi0wMVQwNDoyNTozNSswMDowMKQbYWcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDYtMDFUMDQ6MjU6MzUrMDA6MDDVRtnbAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA2LTAxVDA0OjI1OjQzKzAwOjAw60bEJwAAAABJRU5ErkJggg==' width='100'>
+  <img height='30px' src='https://img.shields.io/badge/-YOLO v4-blue?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAQAAAC1QeVaAAAAAmJLR0QA/4ePzL8AAAAHdElNRQfnBgEEGSvA3OvbAAAAx0lEQVQY063PsStEcQDA8c/vHt2d6yx0L3VRikvKoJRsopuVySyTf8LsP7BaTJJBGf0HhrM/iq684V04ut7dY7rFKN/tM375a9EvlxDGCIJvMzbUpR60rMl13Bsqgj2xkWVtF6oyB1JXagrXkSXHZvV8GDjS0PWksOvQMJKYtK3u1b6moKNi05aaoiR3I0NXjDeRkdyUwmOETy1l53J9l+aU9b27czaBBU0N005UxXasyJy61QuCdfNeJFIsWjXwJfE8fv33fgAgdzg/mEW4+QAAACV0RVh0ZGF0ZTpjcmVhdGUAMjAyMy0wNi0wMVQwNDoyNTozNSswMDowMKQbYWcAAAAldEVYdGRhdGU6bW9kaWZ5ADIwMjMtMDYtMDFUMDQ6MjU6MzUrMDA6MDDVRtnbAAAAKHRFWHRkYXRlOnRpbWVzdGFtcAAyMDIzLTA2LTAxVDA0OjI1OjQzKzAwOjAw60bEJwAAAABJRU5ErkJggg=='>
+  <img height='30px' src='https://img.shields.io/badge/Opencv-8b1df2?style=for-the-badge&logo=Opencv&logoColor=white'>
 </div>
 
 <div>
