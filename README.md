@@ -10,7 +10,7 @@
 </div>
 
 <div>
-  <h2>Skills</h2>
+  <h2>Habilidades</h2>
   <img height='30px' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white'>
   <img height='30px' src='https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white'>
