@@ -69,7 +69,7 @@
   <a href='https://github.com/MarcosBFerreira/JogaDaVelha'><img height='30px' src='https://img.shields.io/badge/-Jogo%20da%20Velha-informational?style=for-the-badge'></a>
   <a href='https://github.com/MarcosBFerreira/FacilitadorYOLOv4'><img height='30px' src='https://img.shields.io/badge/-Ferramentas%20para%20Facilitar%20o%20YOLO-informational?style=for-the-badge'></a>
   <a href='https://github.com/MarcosBFerreira/CalcularDerivada'><img height='30px' src='https://img.shields.io/badge/-Calcular%20Derivada-informational?style=for-the-badge'></a>
-  <a href='https://github.com/MarcosBFerreira/ResolverEquacoesSegundoGrau'><img height='30px' src='https://img.shields.io/badge/-Resolver%20Equações%20de%20Segundo%20Grau-informational?style=for-the-badge'></a>
+  <a href='https://github.com/MarcosBFerreira/ResolverEquacoesSegundoGrau'><img height='30px' src='https://img.shields.io/badge/-Resolver%20Equações%20do%20Segundo%20Grau-informational?style=for-the-badge'></a>
   <br>
 </div>
 
