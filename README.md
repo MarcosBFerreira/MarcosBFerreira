@@ -46,21 +46,6 @@
     <a href='https://inovemaster.com/portal/certificado/Certificado.php?id_certificado=5845'><img height='30px' src='https://img.shields.io/badge/-Ler%20e%20Interpretar%20Corretamente%20Manual%20Técnico-grey?style=for-the-badge'></a>
   </ul>
   <br><br>
-  <li>Educação</li>
-  <br>
-  <ul>
-    <p>Centro de Pesquisa e Formação Continuada Paulo Freire</p>
-    <br>
-    <a href='https://1drv.ms/b/s!AnVYHWshfeqchjBc8gLb1Bl-0cQO?e=ufXl6f'><img height='30px' src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20de%20Jovens%20e%20Adultos-blueviolet?style=for-the-badge'></a>
-    <a href='https://1drv.ms/b/s!AnVYHWshfeqchjcA1HGq8jg31v_V?e=cQ9RTX'><img height='30px' src='https://img.shields.io/badge/-Um%20Olhar%20Sobre%20a%20Educação%20no%20Campo-blueviolet?style=for-the-badge'></a>
-    <a href='https://1drv.ms/b/s!AnVYHWshfeqchjLlJ-EqrH09bcVU?e=cmxW6n'><img height='30px' src='https://img.shields.io/badge/-Currículo:%20Escola,%20Inclusão%20e%20Diferenças-blueviolet?style=for-the-badge'></a>
-    <br><br><br>
-    <p>Associação Nova Escola</p>
-    <br>
-    <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=oENpYMv19UWcSfocDF9Kkt'><img height='30px' src='https://img.shields.io/badge/-Leitura%20para%20Bebês-blueviolet?style=for-the-badge'></a>
-    <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=404pkdsgjp4n7Gug3NsRSW'><img height='30px' src='https://img.shields.io/badge/-Competências%20Gerais%20na%20BNCC-blueviolet?style=for-the-badge'></a>
-    <a href='https://cursos.novaescola.org.br/certificado/autenticacao?token=2zGnDZPOVeAhZaQvOa0yjC'><img height='30px' src='https://img.shields.io/badge/-Brincadeiras%20Cantadas%20na%20Escola:%20Valorizando%20a%20Tradição%20Popular-blueviolet?style=for-the-badge'></a>
-  </ul>
   <br>
 </div>
 
